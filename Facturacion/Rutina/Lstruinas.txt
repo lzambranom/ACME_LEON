@@ -1,0 +1,18 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: EC86-CE3B
+
+ Directorio de C:\Users\Alvaro\Documents\Clientes\Acme Leon\migracion_v33\FUENTES_TST\Facturacion\Rutina
+
+24/01/2022  01:47 p.ÿm.    <DIR>          .
+24/01/2022  01:47 p.ÿm.    <DIR>          ..
+22/07/2021  08:35 a.ÿm.             5.041 ACMDISPA.prw
+22/07/2021  08:35 a.ÿm.             5.097 AcmeDef.ch
+22/07/2021  08:35 a.ÿm.            54.008 ACMNF001.PRW
+22/07/2021  08:35 a.ÿm.             1.329 Captura.PNG
+22/07/2021  08:35 a.ÿm.             2.793 Captura1.png
+22/07/2021  08:35 a.ÿm.             3.786 Captura2.png
+22/07/2021  08:35 a.ÿm.             3.801 Captura3.png
+24/01/2022  01:47 p.ÿm.                 0 Lstruinas.txt
+22/07/2021  08:35 a.ÿm.               795 VERDE_OSCURO.png
+               9 archivos         76.650 bytes
+               2 dirs  220.799.356.928 bytes libres

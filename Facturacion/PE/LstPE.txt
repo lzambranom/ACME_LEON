@@ -1,0 +1,19 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: EC86-CE3B
+
+ Directorio de C:\Users\Alvaro\Documents\Clientes\Acme Leon\migracion_v33\FUENTES_TST\Facturacion\PE
+
+24/01/2022  01:45 p.ÿm.    <DIR>          .
+24/01/2022  01:45 p.ÿm.    <DIR>          ..
+22/07/2021  08:35 a.ÿm.             5.384 LOCXPE33.PRW
+24/01/2022  01:45 p.ÿm.                 0 LstPE.txt
+22/07/2021  08:35 a.ÿm.               964 M410LIOK.PRW
+22/07/2021  08:35 a.ÿm.             1.532 M462GRV.PRW
+22/07/2021  08:35 a.ÿm.               803 M465DORIFE.PRW
+22/07/2021  08:35 a.ÿm.             1.731 M468SD2.prw
+22/07/2021  08:35 a.ÿm.            10.316 M486OWSCOL.prw
+22/07/2021  08:35 a.ÿm.             1.187 MT410TOK.prw
+21/01/2022  12:29 a.ÿm.    <DIR>          ORIGINALEs
+22/07/2021  08:35 a.ÿm.             1.296 SF2460I.PRW
+               9 archivos         23.213 bytes
+               3 dirs  220.797.501.440 bytes libres
