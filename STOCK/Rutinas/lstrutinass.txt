@@ -1,0 +1,32 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: EC86-CE3B
+
+ Directorio de C:\Users\Alvaro\Documents\Clientes\Acme Leon\migracion_v33\FUENTES_TST\STOCK\Rutinas
+
+24/01/2022  02:24 p.ÿm.    <DIR>          .
+24/01/2022  02:24 p.ÿm.    <DIR>          ..
+22/07/2021  08:35 a.ÿm.            74.600 ACM001.prw
+22/07/2021  08:35 a.ÿm.            43.562 ACM001Fx.prw
+22/07/2021  08:35 a.ÿm.             7.188 ACM002.prw
+22/07/2021  08:35 a.ÿm.                80 ACM002FX.prw
+22/07/2021  08:35 a.ÿm.             3.627 ACME271.ch
+22/07/2021  08:35 a.ÿm.            23.074 ACME271.PRW
+22/07/2021  08:35 a.ÿm.             5.097 AcmeDef.ch
+22/07/2021  08:35 a.ÿm.            18.262 ACMR01.prw
+22/07/2021  08:35 a.ÿm.            28.966 ACMRP1.prw
+22/07/2021  08:35 a.ÿm.             3.593 ACMSE1.prw
+22/07/2021  08:35 a.ÿm.               509 ACMSE2.ch
+22/07/2021  08:35 a.ÿm.             5.506 ACMSE2.prw
+22/07/2021  08:35 a.ÿm.             1.329 Captura.PNG
+22/07/2021  08:35 a.ÿm.            10.930 Captura1.pdn
+22/07/2021  08:35 a.ÿm.             2.793 Captura1.png
+22/07/2021  08:35 a.ÿm.            13.598 Captura2.pdn
+22/07/2021  08:35 a.ÿm.             3.786 Captura2.png
+22/07/2021  08:35 a.ÿm.            13.593 Captura3.pdn
+22/07/2021  08:35 a.ÿm.             3.801 Captura3.png
+22/07/2021  08:35 a.ÿm.            17.911 LGMID.png
+24/01/2022  02:24 p.ÿm.                 0 lstrutinass.txt
+22/07/2021  08:35 a.ÿm.             5.901 VERDE_OSCURO.pdn
+22/07/2021  08:35 a.ÿm.               795 VERDE_OSCURO.png
+              23 archivos        288.501 bytes
+               2 dirs  220.651.716.608 bytes libres

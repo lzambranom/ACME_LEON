@@ -1,0 +1,15 @@
+#DEFINE MODEL_OPERATION_IMPRESION   8
+#DEFINE MODEL_OPERATION_COPIAR      9
+#DEFINE STR001 "Usuarios Pistoleo Acme"
+#DEFINE STR002 "Visualizar"
+#DEFINE STR003 "Incluir"
+#DEFINE STR004 "Modificar"
+#DEFINE STR005 "Eliminar"
+#DEFINE STR006 "Imprimir"
+#DEFINE STR007 "Copiar"
+#DEFINE STR008 "Modelo de usuarios de Pistoleo Interno"
+#DEFINE STR009 "Usuarios de Pistoleo"
+#DEFINE STR010 "Usuarios Pistoleo Interno Acme Leon"
+#DEFINE STR011 "Usuario"
+#DEFINE STR012 "Pistoleo"
+#DEFINE STR013 "Bodega"
