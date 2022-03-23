@@ -1,0 +1,15 @@
+#DEFINE MODEL_OPERATION_IMPRESION   8
+#DEFINE MODEL_OPERATION_COPIAR      9
+#DEFINE STR001 "Usuarios Movimientos Acme"
+#DEFINE STR002 "Visualizar" 
+#DEFINE STR003 "Incluir"    
+#DEFINE STR004 "Modificar"     
+#DEFINE STR005 "Eliminar"    
+#DEFINE STR006 "Imprimir"  
+#DEFINE STR007 "Copiar"    
+#DEFINE STR008 "Modelo de usuarios de Movimientos"
+#DEFINE STR009 "Usuarios de Movimientos"
+#DEFINE STR010 "Usuarios Movimientos multiples Acme Leon"
+#DEFINE STR011 "Usuario"
+#DEFINE STR012 "Movimiento"
+#DEFINE STR013 "Almacen"
