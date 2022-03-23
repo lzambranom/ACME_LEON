@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: EC86-CE3B
+
+ Directorio de C:\Users\Alvaro\Documents\Clientes\Acme Leon\migracion_v33\FUENTES_TST\Compras\PE
+
+24/01/2022  06:12 p.ÿm.    <DIR>          .
+24/01/2022  06:12 p.ÿm.    <DIR>          ..
+22/07/2021  08:35 a.ÿm.               317 CCD1.prw
+22/07/2021  08:35 a.ÿm.               317 CCSD1.prw
+24/01/2022  06:12 p.ÿm.                 0 lstpe.txt
+               3 archivos            634 bytes
+               2 dirs  220.384.702.464 bytes libres

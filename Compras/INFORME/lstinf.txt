@@ -1,0 +1,13 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: EC86-CE3B
+
+ Directorio de C:\Users\Alvaro\Documents\Clientes\Acme Leon\migracion_v33\FUENTES_TST\Compras\INFORME
+
+24/01/2022  04:29 p.ÿm.    <DIR>          .
+24/01/2022  04:29 p.ÿm.    <DIR>          ..
+24/01/2022  12:28 p.ÿm.    <DIR>          Formatos_Mh
+24/01/2022  04:29 p.ÿm.                 0 lstinf.txt
+22/07/2021  08:35 a.ÿm.            16.707 RelDocso.PRW
+21/01/2022  12:22 a.ÿm.            19.901 uPedCmp.prw
+               3 archivos         36.608 bytes
+               3 dirs  220.850.905.088 bytes libres
