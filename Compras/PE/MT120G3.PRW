@@ -7,7 +7,7 @@ Local aInformacoes := PARAMIXB
 
 
 SC7->C7_XOBSG := AllTrim(cXObserv)
-//cXObserv := '                                           '
+
 
 
 Return
