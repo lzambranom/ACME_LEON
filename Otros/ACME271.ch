@@ -22,7 +22,7 @@
 #DEFINE ESTADO_AMARILLO	"4"  // cEstado3	:= '4' // Ingreso, entrada de Materia, Entrada  completa verde TIPO		"ZX2_ESTADO = '4'",AMARILLO	, "Espera por Legalizar (Parcial)" 
 #DEFINE ESTADO_AZUL		"5"  // cEstado4	:= '5' // Ingreso, entrada de Materia, Legalizada Parcailmente			"ZX2_ESTADO = '5'",AZUL		, "Parcialmente Legalizada"
 #DEFINE ESTADO_VERDE	"6"  // cEstado5	:= '6' // Legalizada Verde												"ZX2_ESTADO = '6'",VERDE	, "Legalizada"		
-#DEFINE ESTADO_VERDEC	"7"  // cEstado5	:= '6' // Legalizada Verde	
+#DEFINE ESTADO_VERDEC	"7"  // cEstado5	:= '6' // Legalizada Verde	prueba
 
 #DEFINE TP_MOV_GRIS		"1"	 // Nueva Salida de Material
 #DEFINE TP_MOV_VERDE	"2"	 // Salida y entrada de materia Cohinciden
